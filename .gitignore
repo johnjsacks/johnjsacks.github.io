@@ -1,7 +1,2 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-public
-exampleSite
-blogdown
+.env
+.ipynb_checkpoints
